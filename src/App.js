@@ -32,7 +32,7 @@ export default function App() {
           <h4>{val.year}</h4>
         </div>
       })
-      };
+      }
     </>
   );
 }
